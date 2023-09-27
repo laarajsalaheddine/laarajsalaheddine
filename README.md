@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm Salaheddine, and among my many passions, stand
 - **Name:** - Laaraj Salaheddine
 - **Location:** casablanca, Morocco
 - **Occupation:** Full stack Web developer 
-- **[Portfolio](www.salah-codes.com)**
+- **[Portfolio](https://salah-web-developer.com/)**
 
 ...
 
