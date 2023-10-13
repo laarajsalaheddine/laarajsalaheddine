@@ -1,6 +1,6 @@
 # Laaraj Salaheddine
 
-Welcome to my GitHub profile! I'm Salaheddine, and among my many passions, stands my commitment to web development. Here, I proudly present a collection of my personal projects, contributions, and a glimpse into my diverse skillset.
+Welcome to my GitHub profile! I'm Salaheddine, and among my many passions, stands my commitment to web development and software enginering. Here, I happily present a collection of my personal projects, contributions, and a glimpse into my diverse skillset.
 
 ## About Me
 
