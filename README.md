@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm Salaheddine, and among my many passions, stand
 
 ## Get in Touch
 
-Yu are welcome to connect with me on [LinkedIn](https://www.linkedin.com/in/laarajsalaheddine/)
+You are welcome to connect with me on [LinkedIn](https://www.linkedin.com/in/laarajsalaheddine/)
 
 You can also reach me via email @ <a href="mailto:laarajsalaheddine@gmail.com">laarajsalaheddine@gmail.com</a>.
 
