@@ -1,6 +1,6 @@
 # Laaraj Salaheddine
 
-Welcome! I'm Salaheddine, among my many passions, stands my commitment to web development and software engineering. Here, I happily present a collection of my personal projects, contributions, and a glimpse into my diverse skillset.
+Welcome! I'm Salaheddine, I do web development and software engineering. Here, This is where i present collection of my personal projects, contributions, and a glimpse into my diverse skillset.
 
 # Check out my portfolio
 ## www.salah-web-developer.com 
