@@ -8,7 +8,7 @@ Welcome! I'm Salaheddine, I do web development and software engineering. This is
 ## About Me
 
 - **Name:** - Laaraj Salaheddine
-- **Location:** casablanca, Morocco
+- **Location:** Casablanca, Morocco
 - **Occupation:** Full stack Web developer 
 
 ...
