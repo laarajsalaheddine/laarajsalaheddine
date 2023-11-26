@@ -1,17 +1,11 @@
 # Laaraj Salaheddine
 
-Welcome! I'm Salaheddine, I do web development and software engineering. This is where i present a collection of my personal projects, contributions, and a glimpse into my diverse skillset.
+Welcome! I'm Salaheddine, I do web development, and i'm currently located in Casablanca. This is where i present a collection of my personal projects, contributions, and a glimpse into my diverse skillset.
 
 # Check out my portfolio
 ## www.salah-web-developer.com 
 
-## About Me
-
-- **Name:** - Laaraj Salaheddine
-- **Location:** Casablanca, Morocco
-- **Occupation:** Full stack Web developer 
-
-...
+.....
 
 ## Get in Touch
 
