@@ -3,7 +3,7 @@
 Welcome! I'm Salaheddine, I do web development, and i'm currently located in Casablanca. This is where i present a collection of my personal projects, contributions, and a glimpse into my diverse skillset.
 
 # Check out my portfolio
-## https://laarajsalaheddine.me/
+## www.laarajsalaheddine.me
 
 .....
 
