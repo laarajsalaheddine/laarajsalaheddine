@@ -1,5 +1,5 @@
-Salam! I'm Salaheddine, I do web development, and i'm currently located in Casablanca. This is where i present a my personal projects, contributions, and a glimpse into my diverse skillset.
-## www.laarajsalaheddine.me
+Salam! I do web development, currently in Casablanca city, Morocco. 
+Work-related, personal contributions
 
 .....
 
