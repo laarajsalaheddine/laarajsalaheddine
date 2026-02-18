@@ -1,5 +1,5 @@
 Salam! I do web development, currently in Casablanca city, Morocco. 
-This is where i present Work-related, personal contributions
+This is where i present Work-related and all sorts contributions
 
 .....
 
